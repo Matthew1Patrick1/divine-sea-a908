@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "divine-sea-a908",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9eecc31c-1f88-4d63-8e0d-16ccb07c8691",
+      "database_name": "divine-sea-a908-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
